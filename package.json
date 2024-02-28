@@ -2,7 +2,7 @@
   "name": "store_new",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "node server.js"
   },
